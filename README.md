@@ -1,3 +1,3 @@
 Hi there 👋
 
-I'm a pixel art artist and a game developer.
+I'm a pixel art artist and a Unity game developer.
